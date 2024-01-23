@@ -1,0 +1,11 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+.logo-header{
+    max-height: 15vh;
+    max-width: 10vw;
+}
+.logo-navbar{
+    
+}
